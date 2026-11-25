@@ -4,4 +4,4 @@
 
 ## Workflows
 
-to cerate a Github action workflow you need a floder called ./github/workflow
+to cerate a Github action workflow you need a floder called .github/workflow
